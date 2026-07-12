@@ -3,7 +3,7 @@
 # ============================
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8849970450:AAFv2ETAiNK7bmXS4Cd2wwpNu6CDE71OBEw")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8849970450:AAFxwfYsTAyEa8FiDIzm2XErHUJmt0NJgnY")
 BOT_USERNAME = os.getenv("BOT_USERNAME", "A7Az1kuzPRO_bot")
 # Admin(lar) - /admin panelga kira oladigan Telegram ID lar
 ADMIN_IDS = [2087092925]
