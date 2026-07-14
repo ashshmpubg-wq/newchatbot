@@ -15,7 +15,7 @@ OWNER_ID = ADMIN_IDS[0]
 DB_NAME = "database.db"
 
 # ---------- AI avtoresponder (Telegram Business) ----------
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6LkdtoatSXaGN9X6RINPiJO38nvUhSgyGYEJZYBmKXBeA")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AQ.Ab8RN6ISuO0pFbs9Jn0RIkYZyroRLiG725R907y1aX0sFoqLmQ")
 # Bo'sh qoldiring - bot o'zi mavjud "flash" modelini avtomatik topadi.
 # Agar aniq bir modelni majburlab ishlatmoqchi bo'lsangiz, shu yerga yozing
 # (masalan: "gemini-flash-lite-latest").
